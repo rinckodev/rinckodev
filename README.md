@@ -1,18 +1,40 @@
 
-<img align="left" width="30%" src="./images/profile.png">
-<div align="left">
+<img width="600%" src="./images/banner.png">
 
-<h1> Eu sou o Rickardo</h1>
-<p>Me chamo Guilherme mas pode me chamar de Rickardo ou Rincko</p>
-  
-<h2>Linguagens que estou aprendendo</h2>
-<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<span>Javascript</span>
-<br>
-<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<span>Java</span>
-<br>
-<img align="center" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<span>Python</span>
- 
+<!-- <img width="30%" src="./images/profile.png"> -->
+
+<div>
+<h1 align="center">I'm Rinko</h1>
+<p>My name is Guilherme but you can call me Rincko</p>
 </div>
+
+```ts
+import { Person } from "."
+
+const rincko = new Person({
+    name: "Guilherme Ricardo",
+    nick: "Rincko",
+    location: "Brazil, MS",
+    studant: true,
+    age: 21,
+    interests: [
+        "Online games",
+        "Marvel movies",
+        "Cute cats",
+    ],
+    ambitions: [
+        "Be the best at what I do",
+        "Learn every programming language I can",
+        "Always ready to help anyone"
+    ]
+})
+
+rincko.say("Hi, I'm Rincko");  // Rincko says: "Hi, I'm Rincko"
+
+```
+  
+<h2>Medium level</h2>
+<img width="70%" src= "https://skillicons.dev/icons?i=javascript,typescript,nodejs&perline=10"/>
+<h2>Learning</h2>
+<img width="70%" src= "https://skillicons.dev/icons?i=java,cpp,cs,python,react,next,tailwind&perline=10"/>
+
