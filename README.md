@@ -4,7 +4,7 @@
 <!-- <img width="30%" src="./images/profile.png"> -->
 
 <div>
-<h1 align="center">I'm Rinko</h1>
+<h1 align="center">I'm Rincko</h1>
 <p>My name is Guilherme but you can call me Rincko</p>
 </div>
 
