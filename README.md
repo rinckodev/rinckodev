@@ -3,38 +3,52 @@
 
 <!-- <img width="30%" src="./images/profile.png"> -->
 
+<p align="center">
+  <a href="https://www.youtube.com/@rinckodev"><img width="12%" alt="Youtube" title="Youtube" src="./images/youtube.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/rincko_/"><img width="10%" alt="Instagram" title="Instagram" src="./images/instagram.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/guilherme-ricardo-gon%C3%A7alves-nobre-414342176/"><img width="10%" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.png"/></a>
+  <br>
+  My name is Guilherme but you can call me Rincko, I'm 21 years old, a programming student, and I live in Brazil.
+</p>
+
 <div>
-<h1 align="center">I'm Rincko</h1>
-<p>My name is Guilherme but you can call me Rincko</p>
+<p></p>
 </div>
 
-```ts
-import { Person } from "."
-
-const rincko = new Person({
-    name: "Guilherme Ricardo",
-    nick: "Rincko",
-    location: "Brazil, MS",
-    studant: true,
-    age: 21,
-    interests: [
-        "Online games",
-        "Marvel movies",
-        "Cute cats",
-    ],
-    ambitions: [
-        "Be the best at what I do",
-        "Learn every programming language I can",
-        "Always ready to help anyone"
-    ]
-})
-
-rincko.say("Hi, I'm Rincko");  // Rincko says: "Hi, I'm Rincko"
-
-```
+<div style="display:flex;justify-content:left;">
+  <div style="display:flex;flex-direction:column;margin-right:20px;">
+    <h2>Interests</h2>
+    <ul>
+      <li>🎮 Online games</li>
+      <li>🎥 Marvel movies</li>
+      <li>🐱 Cute cats</li>
+    </ul>
+  </div>
+  <div style="display:flex;flex-direction:column;">
+    <h2>Ambitions</h2>
+    <ul>
+      <li>⭐ Be the best at what I do</li>
+      <li>🔭 Learn every programming language I can</li>
+      <li>🔎 Always ready to help anyone</li>
+    </ul>
+  </div>
+</div>
   
-<h2>Medium level</h2>
-<img width="70%" src= "https://skillicons.dev/icons?i=javascript,typescript,nodejs&perline=10"/>
-<h2>Learning</h2>
-<img width="70%" src= "https://skillicons.dev/icons?i=java,cpp,cs,python,react,next,tailwind&perline=10"/>
+## 🔨 Language and Tools
 
+<div style="display:flex;justify-content:left;">
+  <div style="display:flex;flex-direction:column;margin-right:20px;">
+    <h2>Medium level</h2>
+    <div style="background-color: #2C2C2C; border-radius: 10px; padding: 6%; display: flex; justify-content: center; align-items: center;">
+<img width="70%" src= "https://skillicons.dev/icons?i=javascript,typescript,nodejs,vscode,discord&perline=10"/>
+</div>
+  </div>
+  <div style="display:flex;flex-direction:column;">
+    <h2>Learning</h2>
+    <div style="background-color: #2C2C2C; border-radius: 10px; padding: 3%; display: flex; justify-content: center; align-items: center;">
+<img width="70%" src= "https://skillicons.dev/icons?i=java,cpp,cs,python,react,next,tailwind,vite,figma&perline=10"/>
+</div>
+  </div>
+</div>
