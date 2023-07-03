@@ -44,13 +44,13 @@
   <div style="display:flex;flex-direction:column;margin-right:20px;">
     <h2>Medium level</h2>
     <div style="background-color: #2C2C2C; border-radius: 10px; padding: 6%; display: flex; justify-content: center; align-items: center;">
-<img width="70%" src= "https://skillicons.dev/icons?i=javascript,typescript,nodejs,vscode,discord&perline=10"/>
+<img width="70%" src= "https://skillicons.dev/icons?i=javascript,typescript,next,react,tailwind,nodejs,vscode,discord&perline=10"/>
 </div>
   </div>
   <div style="display:flex;flex-direction:column;">
     <h2>Learning</h2>
     <div style="background-color: #2C2C2C; border-radius: 10px; padding: 3%; display: flex; justify-content: center; align-items: center;">
-<img width="70%" src= "https://skillicons.dev/icons?i=java,cpp,cs,python,react,next,tailwind,vite,figma&perline=10"/>
+<img width="70%" src= "https://skillicons.dev/icons?i=java,cpp,cs,python,vite,figma&perline=10"/>
 </div>
   </div>
 </div>
