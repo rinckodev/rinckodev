@@ -1,9 +1,11 @@
 
 <img width="400%" src="./images/card.png">
 
-![Static Badge](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40rinckodev)
-![Static Badge](https://img.shields.io/badge/linkedin-0076B2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-ricardo-gon%25C3%25A7alves-nobre-414342176%2F)
-![Static Badge](https://img.shields.io/badge/instagram-5D54C9?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Frincko_)
+- [Youtube](https://youtube.com/@rinckodev)
+- [Linkedin](https://www.linkedin.com/in/guilherme-ricardo-414342176/)
+- [Instagram](https://www.instagram.com/rincko_)
+- [Npm](https://www.npmjs.com/~rinckodev)
+- [Discord](http://discord.gg/tTu8dGN)
 
 My name's Guilherme but you can call me "Rincko", I'm 21 years old, a programming student, and I live in Brazil.
 
