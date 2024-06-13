@@ -7,11 +7,10 @@
 - [Npm](https://www.npmjs.com/~rinckodev)
 - [Discord](http://discord.gg/tTu8dGN)
 
-My name's Guilherme but you can call me "Rincko", I'm 21 years old, a programming student, and I live in Brazil.
+My name's Guilherme but you can call me "Rincko", I'm 22 years old, a NodeJs Typescript developer, and I live in Brazil.
 
 ### 💻 Currently working on
-- [Zunder System](https://github.com/rinckodev/ZunderSystem)
-- [Umbra Plus CLI](https://github.com/rinckodev/umbraplus)
+- [Constatic CLI](https://github.com/rinckodev/constatic)
 - [Magicyan](https://github.com/rinckodev/magicyan)
 
 # Ambitions
