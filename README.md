@@ -13,6 +13,12 @@ My name's Guilherme but you can call me "Rincko", I'm 22 years old, a NodeJs Typ
 - [Constatic CLI](https://github.com/rinckodev/constatic)
 - [Magicyan](https://github.com/rinckodev/magicyan)
 
+### My projects
+
+📚 [Learn NodeJs Javascript development (for free on my youtube)](https://www.youtube.com/watch?v=lQAJ-T1QTYc&list=PL9tY_tDo_Q0C0hs1aGgtJbEH1EBlyzZdG)
+
+📚 [Learn NodeJs Typescript development (for free on my youtube)](https://www.youtube.com/watch?v=4pIo-p6pX34&list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U&pp=iAQB)
+
 # Ambitions
 
 - ⭐ Be the best at what I do
